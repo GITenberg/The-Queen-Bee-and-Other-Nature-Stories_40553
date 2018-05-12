@@ -1,0 +1,41 @@
+_repo: The-Queen-Bee-and-Other-Nature-Stories_40553
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Smith, G. C. Moore (George Charles Moore)
+    aliases:
+    - Moore Smith, George Charles
+    - Smith, George Charles Moore
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '43319'
+    url: http://www.gutenberg.org/2009/agents/43319
+covers:
+- cover_type: archival
+  image_path: 40553-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ewald, Carl
+    alias: Ewald, Karl
+    birthdate: 1856
+    deathdate: 1908
+    gutenberg_agent_id: '1711'
+    url: http://www.gutenberg.org/2009/agents/1711
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
+description: ''
+gutenberg_issued: '2012-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40553'
+  lccn: 09011051
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Natural history -- Juvenile literature'
+tableOfContents: The queen bee -- The anemones -- The mist -- The beech and the oak
+  -- The dragon-fly and the water-lily -- The weeds -- The sparrow.
+title: The Queen Bee, and Other Nature Stories
+url: http://www.gutenberg.org/ebooks/40553
