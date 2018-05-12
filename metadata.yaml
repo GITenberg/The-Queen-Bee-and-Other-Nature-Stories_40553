@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1711
     wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40553#The-Queen-Bee-and-Other-Nature-Stories
 gutenberg_issued: '2012-08-21'
 gutenberg_type: Text
 identifiers:
